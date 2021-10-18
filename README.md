@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on React app
-- 🌱 I’m currently learning new project
+- 🔭 I’m currently working on going back over some issues in previous projects
+- 🌱 I’m currently learning do better
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
